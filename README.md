@@ -1,4 +1,5 @@
 ## Simulaciones de dinámica molecular en solución acuosa en condiciones fisiológicas. Aplicación a un tripéptido (ARH).
+![CabeceraMM](cabecera.png)
 
 Este repositorio contiene los archivos de simulación y scripts de análisis para el estudio de dinámica molecular de un tripéptido (ARH) en solución acuosa, realizado con GROMACS a dos temperaturas (298K y 400K), incluyendo además una simulación extendida de 500 ps como análisis opcional.
 
